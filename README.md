@@ -85,3 +85,21 @@ Finaliza el Snippets
  > Texto de cita 
 
  Finaliza la cita.
+
+ # Líneas Divisoras
+
+ Esta es una línea divisoria.
+
+ ---  
+ <!-- Línea divisoria con -->
+
+ ***
+
+ <!--Línea divisoria con *** -->
+
+ ____
+
+ <!-- Línea divisoria con guión bajo. -->
+
+
+<!-- Las líneas divisorias ocupa un ENTER de diferencia. --> 
