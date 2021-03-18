@@ -75,4 +75,13 @@ Finaliza el Snippets
 | David   | Campos   |  123123  |
 | Jose   | Castro   |  dsf  |
  
- 
+ # Citas
+
+ Texto para la cita debajo:
+ > Esto es una cita.
+
+ Texto independiente de la cita, ocupa un ENTER después de la cita.
+
+ > Texto de cita 
+
+ Finaliza la cita.
