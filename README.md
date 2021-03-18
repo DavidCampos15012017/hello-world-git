@@ -66,3 +66,13 @@ Content-Length: 137
 }
 ```
 Finaliza el Snippets
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi   | Burgos   |     123123|
+| David   | Campos   |  123123  |
+| Jose   | Castro   |  dsf  |
+ 
+ 
