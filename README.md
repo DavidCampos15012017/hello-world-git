@@ -102,4 +102,18 @@ Finaliza el Snippets
  <!-- Línea divisoria con guión bajo. -->
 
 
-<!-- Las líneas divisorias ocupa un ENTER de diferencia. --> 
+<!-- Las líneas divisorias ocupa un ENTER de diferencia. -->
+
+# Saltos de línea
+
+Antes: 
+
+Primer parrafo 
+Segundo parrafo 
+
+Después:
+
+Primer parrafo 
+<!-- Se agrega un ENTER-->
+Segundo parrafo 
+
